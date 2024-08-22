@@ -75,3 +75,11 @@ answerImg3.setAttribute("alt", "#");
 answerImg4.setAttribute("alt", "#");
 answerImg5.setAttribute("alt", "#");
 answerImg6.setAttribute("alt", "#");
+
+// append answerImg to answer div
+answer1.append(answerImg1);
+answer2.append(answerImg2);
+answer3.append(answerImg3);
+answer4.append(answerImg4);
+answer5.append(answerImg5);
+answer6.append(answerImg6);
