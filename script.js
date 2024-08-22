@@ -45,3 +45,8 @@ answerBox.append(answer6);
 
 // create a img element
 let questionImg = document.createElement("img");
+// add src attribute to questionImg
+questionImg.setAttribute("src", "#");
+// add alt attribute to questionImg
+questionImg.setAttribute("alt", "#");
+
