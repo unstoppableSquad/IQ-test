@@ -60,3 +60,18 @@ let answerImg3 = document.createElement("img");
 let answerImg4 = document.createElement("img");
 let answerImg5 = document.createElement("img");
 let answerImg6 = document.createElement("img");
+
+// add src attribute to answers
+answerImg1.setAttribute("src", "#");
+answerImg2.setAttribute("src", "#");
+answerImg3.setAttribute("src", "#");
+answerImg4.setAttribute("src", "#");
+answerImg5.setAttribute("src", "#");
+answerImg6.setAttribute("src", "#");
+// add alt attribute to answers
+answerImg1.setAttribute("alt", "#");
+answerImg2.setAttribute("alt", "#");
+answerImg3.setAttribute("alt", "#");
+answerImg4.setAttribute("alt", "#");
+answerImg5.setAttribute("alt", "#");
+answerImg6.setAttribute("alt", "#");
