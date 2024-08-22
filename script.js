@@ -42,3 +42,6 @@ answerBox.append(answer3);
 answerBox.append(answer4);
 answerBox.append(answer5);
 answerBox.append(answer6);
+
+// create a img element
+let questionImg = document.createElement("img");
