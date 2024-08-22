@@ -13,6 +13,6 @@ questions.append(questionForm);
 
 //create a answer div
 const answerBox = document.createElement("div");
-// give ID to answer div
+// give ID to answerBox div
 answerBox.id = "answerBox";
 console.log(answerBox);
