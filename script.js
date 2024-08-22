@@ -7,3 +7,6 @@ questions.id = "questions";
 let questionForm = document.createElement("div");
 // give ID to question form div
 questionForm.id = "questionForm";
+
+// append question form div to general div
+questions.append(questionForm);
