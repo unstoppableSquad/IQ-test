@@ -34,3 +34,11 @@ answer3.className = "answer";
 answer4.className = "answer";
 answer5.className = "answer";
 answer6.className = "answer";
+
+// append answer divs to answer box div
+answerBox.append(answer1);
+answerBox.append(answer2);
+answerBox.append(answer3);
+answerBox.append(answer4);
+answerBox.append(answer5);
+answerBox.append(answer6);
