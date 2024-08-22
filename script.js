@@ -10,3 +10,9 @@ questionForm.id = "questionForm";
 
 // append question form div to general div
 questions.append(questionForm);
+
+//create a answer div
+const answerBox = document.createElement("div");
+// give ID to answer div
+answerBox.id = "answerBox";
+console.log(answerBox);
