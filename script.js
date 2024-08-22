@@ -52,3 +52,11 @@ questionImg.setAttribute("alt", "#");
 
 // append questionImg to questionForm div
 questionForm.append(questionImg);
+
+// create a img element for answers
+let answerImg1 = document.createElement("img");
+let answerImg2 = document.createElement("img");
+let answerImg3 = document.createElement("img");
+let answerImg4 = document.createElement("img");
+let answerImg5 = document.createElement("img");
+let answerImg6 = document.createElement("img");
