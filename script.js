@@ -50,3 +50,5 @@ questionImg.setAttribute("src", "#");
 // add alt attribute to questionImg
 questionImg.setAttribute("alt", "#");
 
+// append questionImg to questionForm div
+questionForm.append(questionImg);
