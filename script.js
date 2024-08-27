@@ -77,6 +77,13 @@ for (let i = 0; i < 12; i++) {
   answerImg4.setAttribute("alt", "#");
   answerImg5.setAttribute("alt", "#");
   answerImg6.setAttribute("alt", "#");
+  // add class name to answers
+  answerImg1.classList = images;
+  answerImg2.classList = images;
+  answerImg3.classList = images;
+  answerImg4.classList = images;
+  answerImg5.classList = images;
+  answerImg6.classList = images;
 
   // append answerImg to answer div
   answer1.append(answerImg1);
@@ -178,6 +185,15 @@ for (let J = 0; J < 5; J++) {
   answerImg6.setAttribute("alt", "#");
   answerImg7.setAttribute("alt", "#");
   answerImg8.setAttribute("alt", "#");
+  // add class name to answers
+  answerImg1.classList = images;
+  answerImg2.classList = images;
+  answerImg3.classList = images;
+  answerImg4.classList = images;
+  answerImg5.classList = images;
+  answerImg6.classList = images;
+  answerImg7.classList = images;
+  answerImg8.classList = images;
 
   // append answerImg to answer div
   answer1.append(answerImg1);
