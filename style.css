@@ -5,3 +5,48 @@ body {
   background-color: #c5e9ea;
   font-family: "josefin sans", sans-serif;
 }
+
+/* questions style start */
+.questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  background-color: #F2E9EA;
+}
+
+/* questions style finish */
+
+/* start questionform style */
+
+.questionForm {
+  width: 50%;
+  background-color: #F4DDE2;
+  height: 200px;
+}
+
+/* finish questionform style */
+
+/* start answerBox style */
+
+.answerBox {
+  display: flex;
+  width: 70%;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* finish answerBox style */
+
+/* start answer */
+
+.answer {
+  background-color: #F4DDE2;
+  width: 20%;
+  height: 50px;
+  cursor: pointer;
+}
+
+/* finish answer */
