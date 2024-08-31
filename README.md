@@ -1,4 +1,5 @@
 # IQ-test
+![iqphoto](https://github.com/user-attachments/assets/135cde5b-97cb-4c29-8d9f-2ad0f1841ec2)
 
 
 # what is IQ-test
