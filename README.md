@@ -13,3 +13,11 @@ We tried to design an IQ test with 30 questions that gives you a score after ans
 # UI/Ux
 
 By designing a minimal appearance for the site and placing the icons in the right place, we have created a wonderful site for you that you can share this site with your friends and measure your IQs.
+
+# Members
+
+Shayan Mahmoudi
+
+Raha Rezaei 
+
+Arshia Arshadi
