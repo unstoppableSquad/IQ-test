@@ -16,9 +16,12 @@ By designing a minimal appearance for the site and placing the icons in the righ
 
 # Members
 
-Shayan Mahmoudi
-https://github.com/shayanUNK
-Raha Rezaei 
-https://github.com/raharz
-Arshia Arshadi
-https://github.com/ArshiaArshadi
+[Shayan Mahmoudi
+](https://github.com/shayanUNK
+)<br>
+[Raha Rezaei 
+](https://github.com/raharz
+)<br>
+[Arshia Arshadi
+](https://github.com/ArshiaArshadi
+)
