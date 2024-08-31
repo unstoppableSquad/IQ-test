@@ -10,7 +10,7 @@ IQ or Intelligence Quotient is a standard score that shows how far above or belo
 
 We tried to design an IQ test with 30 questions that gives you a score after answering all the questions and measures your IQ between 85 and 130.
 
-# UI/Ux
+# UI/UX
 
 By designing a minimal appearance for the site and placing the icons in the right place, we have created a wonderful site for you that you can share this site with your friends and measure your IQs.
 
